@@ -8,6 +8,7 @@ public class test {
 		int b=10;
 		int c=20;
 		String user="hong";
+		System.out.println("testlhw");
 	}
 
 }
