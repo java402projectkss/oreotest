@@ -12,6 +12,8 @@ public class test {
 		System.out.println("test22222222whynot");
 		int k = 55;
 		System.out.println(k);
+		String desc = "i have a dream";
+		System.out.println(desc);
 	}
 
 }
