@@ -10,6 +10,8 @@ public class test {
 		String user="hong";
 		System.out.println("testlhw");
 		System.out.println("test22222222whynot");
+		int k = 55;
+		System.out.println(k);
 	}
 
 }
