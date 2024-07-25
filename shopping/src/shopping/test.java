@@ -9,6 +9,7 @@ public class test {
 		int c=20;
 		String user="hong";
 		System.out.println("testlhw");
+		System.out.println("test22222222whynot");
 	}
 
 }
